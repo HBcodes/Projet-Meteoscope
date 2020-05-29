@@ -2,8 +2,7 @@
  * Thread de surveillance des boutons l'application 
  * surveille l'état des boutons <quitter> et <afficher le message> 
  * @param 
- * @author Wilfrid Grassi
- * @since 30/11/2014
+ * @author BAL Hugo
  * @version v03
  */
 package MonProgramme;

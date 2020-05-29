@@ -3,8 +3,7 @@
  * le message apparait dans un des 2 labels lorsque l'on clique sur le bouton afficher le message
  * On quitte le programme lorsque l'on appui sur le bouton quitter
  * @param 
- * @author Wilfrid Grassi
- * @since 30/11/2014
+ * @author BAL Hugo
  * @version v03
  */
 package MonIHM;
