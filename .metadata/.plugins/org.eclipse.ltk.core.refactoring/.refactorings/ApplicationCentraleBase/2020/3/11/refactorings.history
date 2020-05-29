@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;JSON.clavier&apos; to &apos;clavier&apos;&#x0D;&#x0A;- Original project: &apos;ApplicationCentraleBase&apos;&#x0D;&#x0A;- Original element: &apos;ApplicationCentraleBase/src/JSON.clavier&apos;&#x0D;&#x0A;- Renamed element: &apos;ApplicationCentraleBase/src/clavier&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;JSON.clavier&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;JSON.clavier" name="clavier" qualified="false" references="true" stamp="1584110908048" textual="false" version="1.0"/>
+</session>
